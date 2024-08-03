@@ -4,6 +4,10 @@ public class Main {
         System.out.println("Version 1 of tester");
         System.out.println("2nd Test - pushing from IntelliJ");
         System.out.println("3nd Test - committing and pushing from IntelliJ");
+        System.out.println("4th TestA - clone from GitHub");
+        System.out.println("4th TestB - save commit and push to repository");
+
+
 
 
 
