@@ -6,6 +6,8 @@ public class Main {
         System.out.println("3nd Test - committing and pushing from IntelliJ");
         System.out.println("4th TestA - clone from GitHub");
         System.out.println("4th TestB - save commit and push to repository");
+        System.out.println("5th Test - create/commit/push change " +
+                "that will have to be pulled from home computer");
 
 
 
